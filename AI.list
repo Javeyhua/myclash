@@ -51,3 +51,25 @@ domain:sentry.io
 domain:turn.livekit.cloud
 domain:browser-intake-datadoghq.com
 domain:static.cloudflareinsights.com
+
+# > Copilot
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,microsoft-falcon.io
+DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN,api.msn.com
+DOMAIN,assets.msn.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,location.microsoft.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,self.events.data.microsoft.com
+
+# > Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,apis.google.com
+DOMAIN,colab.research.google.com
+DOMAIN,content-developerprofiles-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+
+# > Meta AI
+DOMAIN-SUFFIX,meta.ai
