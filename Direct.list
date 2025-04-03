@@ -329,7 +329,7 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-# > miHoYo
+#  miHoYo
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
@@ -337,6 +337,42 @@ DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,yuanshen.com
+
+# PT
+DOMAIN-SUFFIX,tracker.m-team.io
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,agsvpt.trackers.work
+DOMAIN-SUFFIX,tracker.leaves.red
+DOMAIN-SUFFIX,tracker2.leaves.red
+DOMAIN-SUFFIX,tracker3.leaves.red
+DOMAIN-SUFFIX,tracker.hdkyl.in
+DOMAIN-SUFFIX,www.hdkylin.top
+DOMAIN-SUFFIX,t.hddolby.com
+DOMAIN-SUFFIX,t.hdhome.org
+DOMAIN-SUFFIX,tracker.0ff.cc
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,t.ubits.club
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,tracker.carpt.net
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,tracker.ptcafe.club
+DOMAIN-SUFFIX,tracker.zhuque.in
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,tracker.cyanbug.net
+DOMAIN-SUFFIX,www.nicept.net
+DOMAIN-SUFFIX,www.icc2022.com
+DOMAIN-SUFFIX,tracker1.icc2022.de
+DOMAIN-SUFFIX,tracker2.icc2022.de
+DOMAIN-SUFFIX,tracker3.icc2022.de
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,www.htpt.cc
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-SUFFIX,star-space.net
+
 
 
 # Public Direct CDN 公共直连
