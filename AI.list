@@ -23,9 +23,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,circumlunar.space
@@ -41,8 +38,6 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 
@@ -84,9 +79,7 @@ DOMAIN,self.events.data.microsoft.com
 
 # > Gemini
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN,apis.google.com
-DOMAIN,colab.research.google.com
-DOMAIN,content-developerprofiles-pa.googleapis.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN,generativelanguage.googleapis.com
 
 # > Meta AI
