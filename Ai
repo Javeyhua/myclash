@@ -1,0 +1,115 @@
+# > OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,static.cloudflareinsights.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,ai.com
+
+# > Anthropic / Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropicusercontent.com
+
+# > Gemini / Bard / Google AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,content-developerprofiles-pa.googleapis.com
+DOMAIN,apis.google.com
+DOMAIN,colab.research.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gvt1.com
+
+# > Microsoft Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,api.msn.com
+DOMAIN,assets.msn.com
+DOMAIN,location.microsoft.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,self.events.data.microsoft.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,microsoft-falcon.io
+DOMAIN-SUFFIX,microsoftapp.net
+
+# > Grok / xAI / X
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+
+# > Meta AI
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+
+# > Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexityusercontent.com
+
+# > Groq
+DOMAIN-SUFFIX,groq.com
+
+# > Dify
+DOMAIN-SUFFIX,difyai.com
+
+# > Genspark
+DOMAIN-SUFFIX,genspark.ai
+
+# > Poe
+DOMAIN-SUFFIX,poe.com
+
+# > Character AI
+DOMAIN-SUFFIX,character.ai
+
+# > Midjourney
+DOMAIN-SUFFIX,midjourney.com
+
+# > Cursor
+DOMAIN-SUFFIX,cursor.sh
+
+# > Devin / Cognition
+DOMAIN-SUFFIX,cognition.ai
+
+# > HuggingFace
+DOMAIN-SUFFIX,huggingface.co
+
+# > Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+
+# > You.com
+DOMAIN-SUFFIX,you.com
+
+# > Misc AI Related
+DOMAIN-SUFFIX,circumlunar.space
+DOMAIN-SUFFIX,vulpes.one
+DOMAIN-SUFFIX,mozz.us
+DOMAIN-SUFFIX,conman.org
+DOMAIN-SUFFIX,bortzmeyer.org
